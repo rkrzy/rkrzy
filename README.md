@@ -2,8 +2,9 @@
 
 <h2>안녕하세요! 👋</h2>
 
-<h3>Project</h3>
 
+
+<h3>Project</h3>
 <table>
   <thead>
     <tr>
@@ -16,7 +17,7 @@
   <tbody>
     <tr>
       <td>자리관리 레시피 공유 플랫폼 그룸</td>
-      <td>백엔드</td>
+      <td>자기관리 레시피를 공유할 수 있는 플랫폼</td>
       <td>Spring boot를 이용해서 요청에 대한 JSON형태로 응답 처리</td>
        <td><a href="https://github.com/mut-sa-mut-si/backend" target="_blank">그룸</a></td>
     </tr>
@@ -78,7 +79,6 @@
 </table>
 
 <h3>Tech Stack</h3>
-
 <table>
   <thead>
     <tr>
