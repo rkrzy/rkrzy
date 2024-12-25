@@ -9,7 +9,7 @@
   <thead>
     <tr>
       <th>이름</th>
-      <th>설명</th>
+      <th>기간</th>
       <th>역할</th>
       <th>링크</th>
     </tr>
@@ -17,7 +17,7 @@
   <tbody>
     <tr>
       <td>자리관리 레시피 공유 플랫폼 그룸</td>
-      <td>자기관리 레시피를 공유할 수 있는 플랫폼</td>
+      <td>2024.07 - 2024.08 (1개월)</td>
       <td>Spring boot를 이용해서 요청에 대한 JSON형태로 응답 처리</td>
        <td><a href="https://github.com/mut-sa-mut-si/backend" target="_blank">그룸</a></td>
     </tr>
