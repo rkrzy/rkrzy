@@ -24,8 +24,9 @@
   <li>AES알고리즘 경량화를 통해서 시간효율성 및 공간효율성 증대</li>
   <li>보고서 작성 및 관련 논문 정독</li>
 </ul>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstlr9891)](https://solved.ac/wnstlr9891)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstlr9891)](https://solved.ac/wnstlr9891/)
 
 
 
