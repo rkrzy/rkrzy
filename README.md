@@ -32,7 +32,8 @@
   <li>Spring security로 로그인 기능 구현</li>
   <li>프론트엔드 인원과 협력</li>
 </ul>
-
+<b>부산대학교, 한국인터넷진흥원, 파인더갭 버그바운티 대회 최우수상 🥈</b>
+<p>한국인터넷진흥원 동남정보보호클러스터 센터장 상</p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstlr9891)](https://solved.ac/wnstlr9891/)
 
