@@ -5,7 +5,7 @@
 
 
 <h3>Project</h3>
-<b>자기관리 레시피 공류 플랫폼 그룸</b> (2024.07 - 2024.08 (1개월)) 
+<b>자기관리 레시피 공유 플랫폼 그룸</b> (2024.07 - 2024.08 (1개월)) 
 <a href="https://github.com/mut-sa-mut-si/backend" target="_blank">그룸</a>
 <ul>
   <li>스프링 부트를 이용해서 DTO 작성</li>
