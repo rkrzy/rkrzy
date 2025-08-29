@@ -1,8 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving)
 
 <h2>안녕하세요! 👋</h2>
-
-
+<h3>Experience</h3>
+<b>(주)태성환경연구소</b>
+(2025.07 ~ 2025.08 현장실습)
+<ul>
+  <li>직무: 전산팀</li>
+  <li>센서 데이터 시각화 웹프로그램 개발</li>
+  <li>다양한 요구사항 수집 및 반영</li>
+</ul>
 
 <h3>Project</h3>
 <b>자기관리 레시피 공유 플랫폼 그룸</b> (2024.07 - 2024.08 (1개월)) 
