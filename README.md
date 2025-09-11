@@ -19,11 +19,13 @@
   <li>요청에 대한 로직 작성</li>
 </ul>
 <b>AI기반 웹쇼핑 플랫폼 AIWI</b> (2025.05 - 2025.06 (2개월))
+<a href="https://github.com/rkrzy/aiwi_backend" target="_blank">AIWI</a>
 <ul>
   <li>역할 : 백엔드</li>
   <li>FastAPI를 이용해서 서버 개발</li>
 </ul>
 <b>청각 장애인의 소리 감지를 위한 로봇 IOT 서비스 Hearo</b> (2025.05 - 2025.9 (5개월))
+<a href="https://github.com/Project-Hearo" target="_blank">Hearo</a>
 <ul>
   <li>ROS2 Humble로 로봇 내부의 작동할 수 있는 로직을 구현</li>
   <li>MQTT서버를 만들어서 애플리케이션 서버와 로봇이 통신할 수 있게 구현</li>
