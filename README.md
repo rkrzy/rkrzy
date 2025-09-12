@@ -3,7 +3,8 @@
 <h2>안녕하세요! 👋</h2>
 <h3>Experience</h3>
 <b>(주)태성환경연구소</b>
-(2025.07 ~ 2025.08 현장실습)
+(2025.07 ~ 2025.08 현장실습) 
+<a href = "https://github.com/rkrzy/tesi_project" target="_blank">Sensor Display Page</a>
 <ul>
   <li>직무: 전산팀</li>
   <li>센서 데이터 시각화 웹프로그램 개발</li>
