@@ -25,12 +25,6 @@
   <li>역할 : 백엔드</li>
   <li>FastAPI를 이용해서 서버 개발</li>
 </ul>
-<b>청각 장애인의 소리 감지를 위한 로봇 IOT 서비스 Hearo</b> (2025.05 - 2025.9 (5개월))
-<a href="https://github.com/Project-Hearo" target="_blank">Hearo</a>
-<ul>
-  <li>ROS2 Humble로 로봇 내부의 작동할 수 있는 로직을 구현</li>
-  <li>MQTT서버를 만들어서 애플리케이션 서버와 로봇이 통신할 수 있게 구현</li>
-</ul>
 
 <h3>ETC Project</h3>
 동서대학교 게임 프로젝트 모음 (2018 - 2022) 
@@ -57,6 +51,13 @@
 </ul>
 <b>부산대학교, 한국인터넷진흥원, 파인더갭 버그바운티 대회 최우수상 🥈</b>
 <p>한국인터넷진흥원 동남정보보호클러스터 센터장 상</p>
+<b> 2025 IoT-X 캡스톤디자인 장려상 </b> (2025.05 - 2025.9 (5개월))
+<a href="https://github.com/Project-Hearo">Hearo</a>
+<p>청각 장애인의 소리 감지를 위한 로봇 IOT 서비스 Hearo</p> 
+<ul>
+  <li>ROS2 Humble로 로봇 내부의 작동할 수 있는 로직을 구현</li>
+  <li>MQTT서버를 만들어서 애플리케이션 서버와 로봇이 통신할 수 있게 구현</li>
+</ul>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstlr9891)](https://solved.ac/wnstlr9891/)
 
