@@ -32,6 +32,10 @@
   <li>MQTT서버를 만들어서 애플리케이션 서버와 로봇이 통신할 수 있게 구현</li>
 </ul>
 
+<h3>ETC Project</h3>
+동서대학교 게임 프로젝트 모음 (2018 - 2022) 
+<a href = "https://github.com/rkrzy/dongseo_game_project" target="_blank">Game Project
+
 <hr style="border: 0.5px solid gold; width: 80%;">
 
 <h3>Award</h3>
