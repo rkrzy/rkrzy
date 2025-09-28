@@ -20,7 +20,7 @@
   <li>요청에 대한 로직 작성</li>
 </ul>
 <b>AI기반 웹쇼핑 플랫폼 AIWI</b> (2025.05 - 2025.06 (2개월))
-<a href="https://github.com/rkrzy/aiwi_backend" target="_blank">AIWI</a>
+<a href="https://github.com/rkrzy/aiwi_union" target="_blank">AIWI</a>
 <ul>
   <li>역할 : 백엔드</li>
   <li>FastAPI를 이용해서 서버 개발</li>
