@@ -19,11 +19,18 @@
   <li>API명세서 작성</li>
   <li>요청에 대한 로직 작성</li>
 </ul>
-<b>AI기반 웹쇼핑 플랫폼 AIWI</b> (2025.05 - 2025.06 (2개월))
+<b>AI기반 웹쇼핑 플랫폼 AIWI</b> (2025.04 - 2025.06 (2개월))
 <a href="https://github.com/rkrzy/aiwi_union" target="_blank">AIWI</a>
 <ul>
   <li>역할 : 백엔드</li>
   <li>FastAPI를 이용해서 서버 개발</li>
+</ul>
+
+<b>CS대전 애플리케이션 CoPet</b> (2025.05 - 2025.06 (1개월))
+<a href="https://github.com/rkrzy/android_project" target="_blank">CoPet</a>
+<ul>
+  <li>역할 : 백엔드</li>
+  <li>Kotlin을 이용한 서버개발</li>
 </ul>
 
 <h3>ETC Project</h3>
