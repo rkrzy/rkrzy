@@ -1,75 +1,175 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
+<!-- =========================
+     Header
+========================= -->
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20World!&fontSize=70"
+    width="100%"
+    alt="header"
+  />
+  
+  <br/>
+  
+  <h2>안녕하세요! 끊임없이 성장하는 개발자입니다 👋</h2>
+  
+  <br/>
+  
+  <a href="https://solved.ac/wnstlr9891/" target="_blank" rel="noopener noreferrer">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=wnstlr9891" alt="Solved.ac Profile" />
+  </a>
+  
+</div>
 
-<h2>안녕하세요! 👋</h2>
-<h3>Experience</h3>
-<b>(주)태성환경연구소</b>
-(2025.07 ~ 2025.08 현장실습) 
-<a href = "https://github.com/rkrzy/tesi_project" target="_blank">Sensor Display Page</a>
-<ul>
-  <li>직무: 전산팀</li>
-  <li>센서 데이터 시각화 웹프로그램 개발</li>
-  <li>다양한 요구사항 수집 및 반영</li>
-</ul>
+<br/>
 
-<h3>Project</h3>
-<b>자기관리 레시피 공유 플랫폼 그룸</b> (2024.07 - 2024.08 (1개월)) 
-<a href="https://github.com/mut-sa-mut-si/backend" target="_blank">그룸</a>
-<ul>
-  <li>스프링 부트를 이용해서 DTO 작성</li>
-  <li>API명세서 작성</li>
-  <li>요청에 대한 로직 작성</li>
-</ul>
-<b>AI기반 웹쇼핑 플랫폼 AIWI</b> (2025.04 - 2025.06 (2개월))
-<a href="https://github.com/rkrzy/aiwi_union" target="_blank">AIWI</a>
-<ul>
-  <li>역할 : 백엔드</li>
-  <li>FastAPI를 이용해서 서버 개발</li>
-</ul>
+---
 
-<b>CS대전 애플리케이션 CoPet</b> (2025.05 - 2025.06 (1개월))
-<a href="https://github.com/rkrzy/android_project" target="_blank">CoPet</a>
-<ul>
-  <li>역할 : 백엔드</li>
-  <li>Kotlin을 이용한 서버개발</li>
-</ul>
+<br/>
 
-<h3>ETC Project</h3>
-동서대학교 게임 프로젝트 모음 (2018 - 2022) 
-<a href = "https://github.com/rkrzy/dongseo_game_project" target="_blank">Game Project
+<!-- =========================
+     Experience
+========================= -->
 
-<hr style="border: 0.5px solid gold; width: 80%;">
+<div align="center">
+  
+## 💼 Experience
 
-<h3>Award</h3>
-<b>2024부산대학교 전기 졸업과제 금상 🥇</b> (2024.07 - 2024.11 (5개월)) 
-<a href="https://github.com/pnucse-capstone-2024/Capstone-2024-team-48" target="_blank">졸업과제</a>
-<p>주제 : RTOS취약점 분석 및 암호 알고리즘 경량화 연구</p>
-<ul>
-  <li>팀장</li>
-  <li>AES알고리즘 경량화를 통해서 시간효율성 및 공간효율성 증대</li>
-  <li>보고서 작성 및 관련 논문 정독</li>
-</ul>
-<b>부경대학교 지역문제 해결 엽합 해커톤 경진대회 동상 🥉</b>
-<a href = "https://github.com/Busan-Hackathon">Doti & Beni</a>
-<p>주제 : 후원 및 봉사 시스템을 이용한 자영업자 문제 해결</p>
-<ul>
-  <li>thymeleaf를 이용한 프론트엔드 구성</li>
-  <li>Spring security로 로그인 기능 구현</li>
-  <li>프론트엔드 인원과 협력</li>
-</ul>
-<b>부산대학교, 한국인터넷진흥원, 파인더갭 버그바운티 대회 최우수상 🥈</b>
-<p>한국인터넷진흥원 동남정보보호클러스터 센터장 상</p>
-<b> 2025 IoT-X 캡스톤디자인 장려상 </b> (2025.05 - 2025.9 (5개월))
-<a href="https://github.com/Project-Hearo">Hearo</a>
-<p>청각 장애인의 소리 감지를 위한 로봇 IOT 서비스 Hearo</p> 
-<ul>
-  <li>ROS2 Humble로 로봇 내부의 작동할 수 있는 로직을 구현</li>
-  <li>MQTT서버를 만들어서 애플리케이션 서버와 로봇이 통신할 수 있게 구현</li>
-</ul>
+</div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstlr9891)](https://solved.ac/wnstlr9891/)
+<div align="center">
+
+**㈜태성환경연구소** (현장실습)  
+📅 2025.07 ~ 2025.08  
+센서 데이터 시각화 웹 페이지 개발  
+
+[🔗 프로젝트 보러가기](https://github.com/rkrzy/tesi_project)
+
+**부산은행 D-IT**
+📅 2026.01 ~ current
+
+</div>
 
 
+</div>
 
+<br/>
 
+---
 
+<br/>
 
+<!-- =========================
+     Project & Award
+========================= -->
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      
+<div align="center">
+
+## 💻 Project
+
+</div>
+
+<details>
+<summary><strong>📂 대학교 프로젝트 모음</strong></summary>
+
+<br/>
+
+<h3>🌱 자기관리 레시피 공유 플랫폼 '그룸'</h3>
+<p>
+📅 2024.07 - 2024.08 (1개월)<br/>
+<a href="https://github.com/mut-sa-mut-si/backend" target="_blank" rel="noopener noreferrer">🔗 GitHub</a>
+</p>
+
+<br/>
+
+<h3>🛍️ AI기반 웹쇼핑 플랫폼 'AIWI'</h3>
+<p>
+📅 2025.04 - 2025.06 (2개월)<br/>
+<a href="https://github.com/rkrzy/aiwi_union" target="_blank" rel="noopener noreferrer">🔗 GitHub</a>
+</p>
+
+<br/>
+
+<h3>🐾 CS대전 애플리케이션 'CoPet'</h3>
+<p>
+📅 2025.05 - 2025.06 (1개월)<br/>
+<a href="https://github.com/rkrzy/android_project" target="_blank" rel="noopener noreferrer">🔗 GitHub</a>
+</p>
+
+<br/>
+
+<h3>🎮 동서대학교 게임 프로젝트</h3>
+<p>
+📅 2018 - 2022<br/>
+<a href="https://github.com/rkrzy/dongseo_game_project" target="_blank" rel="noopener noreferrer">🔗 GitHub</a>
+</p>
+
+</details>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+## 🏆 Award
+
+</div>
+
+<details>
+<summary><strong>🏅 대학교 수상 내역 보기</strong></summary>
+
+<br/>
+
+<h3>🥇 2024 부산대 전기 졸업과제 금상</h3>
+<p>
+📅 2024.07 - 2024.11<br/>
+<a href="https://github.com/pnucse-capstone-2024/Capstone-2024-team-48" target="_blank" rel="noopener noreferrer">🔗 프로젝트 보러가기</a>
+</p>
+
+<br/>
+
+<h3>🥉 부경대 지역문제 해결 연합 해커톤 동상</h3>
+<p>
+Doti & Beni 프로젝트<br/>
+<a href="https://github.com/Busan-Hackathon" target="_blank" rel="noopener noreferrer">🔗 프로젝트 보러가기</a>
+</p>
+
+<br/>
+
+<h3>🥈 KISA/파인더갭 버그바운티 최우수상</h3>
+<p>
+보안 취약점 분석 대회
+</p>
+
+<br/>
+
+<h3>🎖️ 2025 IoT-X 캡스톤디자인 장려상</h3>
+<p>
+📅 2025.05 - 2025.09<br/>
+<a href="https://github.com/Project-Hearo" target="_blank" rel="noopener noreferrer">🔗 프로젝트 보러가기 (Hearo)</a>
+</p>
+
+</details>
+
+</td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- =========================
+     Footer
+========================= -->
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%" alt="footer"/>
+  
+</div>
