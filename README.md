@@ -14,9 +14,9 @@
   
   <br/>
   
-  <a href="https://solved.ac/wnstlr9891/" target="_blank" rel="noopener noreferrer">
+<!--  <a href="https://solved.ac/wnstlr9891/" target="_blank" rel="noopener noreferrer">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=wnstlr9891" alt="Solved.ac Profile" />
-  </a>
+  </a> -->
   
 </div>
 
