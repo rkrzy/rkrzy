@@ -83,7 +83,7 @@
 <summary><strong>🐾 CS대전 애플리케이션 'CoPet'</strong></summary>
 
 * **기간:** 2025.05 - 2025.06
-* **내용:** 안드로이드 기반 반려동물 관련 서비스 애플리케이션 개발
+* **내용:** CS문제를 기반으로 대전을 하는 애플리케이션
 * **링크:** [🔗 GitHub Repository](https://github.com/rkrzy/android_project)
 </details>
 
